@@ -18,3 +18,12 @@
 </ul> 
 ile kolaylıkla Qr kod oluşturabileceğiniz bir projedir. </p>
 <p> Örnek bir kullanım </p>
+<p> İlk olarak kurulumunu yaptığımız Qr projesini çalışrıtıyoruz </p>
+<br>
+<p> İkinci olarak çalıştırdığımız projemizde önümüze yapacağımız işlemi seçeceğimiz index sayfası olan geliyor. 
+<img src="https://github.com/CihanOmur/Laravel-QR-Code-Generator/blob/main/README%20%C4%B0MAGES/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-05-25%20130104.png"> Daha sonra yapmak istediğimiz oluştutucuyu seçiyoruz.</p>
+<br>
+<p> Üçüncü olarak index sayfasında seçtiğimiz oluşturucunun gerekli olan alanlarını dolduruyoruz ve "Submit" butonu ile Qr kodumuzu oluşturuyoruz. <img src="https://github.com/CihanOmur/Laravel-QR-Code-Generator/blob/main/README%20%C4%B0MAGES/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-05-25%20130315.png"> </p>
+<br>
+<p> Son olarak oluşturduğumuz Qr kodunu ister mail aracılığı ile ister indirerek isterseniz bağlantı aracılığıyla paylaşıyoruz.
+<img src="https://github.com/CihanOmur/Laravel-QR-Code-Generator/blob/main/README%20%C4%B0MAGES/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-05-25%20130424.png"></p>
